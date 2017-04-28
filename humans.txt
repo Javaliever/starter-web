@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #adding the comment again after realizing that i had to check out the file before editing (or add it to replace)... anyway getting
+=======
+#adding the comment again after realizing that i had to check out the file before editing (or add it to replace)... anyway getting smarter
+>>>>>>> 250e4f3266602f95d8e932833793016255d44867
 # humanstxt.org/
 # The humans responsible & technology colophon
 
