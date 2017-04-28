@@ -1,4 +1,4 @@
-#adding the comment again after realizing that i had to check out the file before editing (or add it to replace)... anyway getting smarter
+#adding the comment again after realizing that i had to check out the file before editing (or add it to replace)... anyway getting
 # humanstxt.org/
 # The humans responsible & technology colophon
 
